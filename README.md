@@ -1,2 +1,2 @@
 # ProjectOne
-Text here.
+Corrected text here.
